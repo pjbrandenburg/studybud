@@ -1,0 +1,1 @@
+'StudyBud' is a replication of Discord, a social platform comprised of chat rooms, instant messaging, and voice calls. This project is an implementation of the StudyBud tutorial by Dennis Ivy. Below is a screenshot of the applciation up and running in development mode. 
