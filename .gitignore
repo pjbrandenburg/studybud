@@ -6,9 +6,9 @@ local_settings.py
 db.sqlite3
 media
 
-studybud/settings.py
-*/settings.py
-*/__pycache__
+studybud\settings.py
+*\settings.py
+*\__pycache__
 
 .env
 .venv
