@@ -7,6 +7,8 @@ db.sqlite3
 media
 
 studybud/settings.py
+*/settings.py
+*/__pycache__
 
 .env
 .venv
