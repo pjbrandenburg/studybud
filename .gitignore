@@ -9,6 +9,8 @@ media
 studybud\settings.py
 *\settings.py
 *\__pycache__
+studybud\__pycache__
+base\__pycache__
 
 .env
 .venv
